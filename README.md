@@ -1,7 +1,7 @@
 # CS_374-SmallSh
 This is the code I turned in for the smallsh assignment.
 
-Requirements are found in required.md
+Requirements are found in requirments.md
 
 ## Compile Instructions:
 	1. Use the compiler command ‘gcc -o smallsh main.c -std=gnu99 ’
